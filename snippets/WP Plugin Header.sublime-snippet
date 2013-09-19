@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * Plugin Name: ${1:Lorem Ipsum}
+ * Plugin URI: https://github.com/claudiosmweb/${2:repo}
+ * Description: ${3:Lorem Ipsum}
+ * Author: claudiosanches
+ * Author URI: http://claudiosmweb.com
+ * Version: 0.0.1
+ * License: GPLv2 or later
+ * Text Domain: ${4:textdomain}
+ * Domain Path: /languages/
+ */
+
+]]></content>
+    <tabTrigger>wpph</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+[
+    { "keys": ["alt+e"], "command": "encode_html_entities" },
+    { "keys": ["alt+m"], "command": "markdown_preview" },
+    { "keys": ["alt+v"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false} }
+]

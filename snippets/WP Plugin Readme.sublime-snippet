@@ -1,0 +1,60 @@
+<snippet>
+    <content><![CDATA[
+=== ${1:Plugin Name} ===
+Contributors: claudiosanches
+Donate link: http://claudiosmweb.com/doacoes/
+Tags: ${2:tags}
+Requires at least: 3.5
+Tested up to: 3.6.1
+Stable tag: 0.0.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+${3:Short Description}
+
+== Description ==
+
+${4:Lorem Ipsum}
+
+= Contribute =
+
+You can contribute to the source code in our [GitHub](https://github.com/claudiosmweb/${5:repo}) page.
+
+== Installation ==
+
+* Upload plugin files to your plugins folder, or install using WordPress built-in Add New Plugin installer;
+* Activate the plugin.
+
+== Frequently Asked Questions ==
+
+= What is the plugin license? =
+
+* This plugin is released under a GPL license.
+
+== Screenshots ==
+
+Coming soon!
+
+== Changelog ==
+
+= 0.0.1 =
+
+* Initial release.
+
+== Upgrade Notice ==
+
+= 0.0.1 =
+
+* Initial release.
+
+== License ==
+
+$1 is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+$1 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with ${1:Plugin Name}. If not, see <http://www.gnu.org/licenses/>.
+
+]]></content>
+    <tabTrigger>wppr</tabTrigger>
+</snippet>
