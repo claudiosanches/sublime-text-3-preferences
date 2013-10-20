@@ -1,5 +1,4 @@
 {
-	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Additional PHP Snippets",
@@ -23,7 +22,6 @@
 		"Package Control",
 		"PhpTidy",
 		"Pretty JSON",
-		"SASS Build",
 		"SASS Snippets",
 		"SCSS",
 		"SCSS Snippets",
