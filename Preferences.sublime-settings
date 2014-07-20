@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"color_scheme": "Packages/User/Twilight (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Languages/pt_BR.dic",
@@ -8,12 +8,11 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SASS Snippets"
+		"Vintage"
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
