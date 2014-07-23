@@ -31,11 +31,6 @@
                 "excludes": [],
                 "strict": true
             },
-            "php": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "phplint": {
                 "@disable": false,
                 "args": [],
