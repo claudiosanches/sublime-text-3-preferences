@@ -36,11 +36,6 @@
                 "args": [],
                 "excludes": []
             },
-            "phplint": {
-                "@disable": false,
-                "args": [],
-                "excludes": []
-            },
             "scss": {
                 "@disable": false,
                 "args": [],

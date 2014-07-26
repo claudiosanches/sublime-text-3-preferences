@@ -28,7 +28,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-phplint",
+		"SublimeLinter-php",
 		"Tag",
 		"Terminal",
 		"TextFormatting",
