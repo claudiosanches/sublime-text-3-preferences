@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/User/Twilight (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
-	"dictionary": "Packages/Languages/pt_BR.dic",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"fallback_encoding": "UTF-8",
 	"font_face": "Droid Sans Mono",
 	"font_size": 11,
