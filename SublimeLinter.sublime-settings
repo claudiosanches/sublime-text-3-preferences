@@ -16,9 +16,19 @@
                 "warnings": ""
             },
             "htmltidy": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
-                "excludes": []
+                "excludes": [],
+                "ignore_match": [
+                    "missing <!DOCTYPE> declaration",
+                    "inserting implicit <body>",
+                    "inserting missing 'title' element",
+                    "<table> lacks \"summary\" attribute",
+                    "<(.*)> attribute \"id\" has invalid value (.*)",
+                    "<(.*)> proprietary attribute (.*)",
+                    "<(.*)> isn't allowed in <(.*)> elements",
+                    "inserting implicit <table>"
+                ]
             },
             "jshint": {
                 "@disable": false,
@@ -32,6 +42,11 @@
                 "strict": true
             },
             "php": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "pyflakes": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
