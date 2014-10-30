@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+fwrite( STDERR, PHP_EOL . print_r( ${1:var}, true ) . PHP_EOL . PHP_EOL );
+]]></content>
+    <tabTrigger>utdebugger</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
