@@ -12,7 +12,8 @@
 		"CVS",
 		"node_modules",
 		".sass-cache",
-		"apigen"
+		"apigen",
+		"tmp"
 	],
 	"font_face": "Droid Sans Mono",
 	"font_size": 11,
