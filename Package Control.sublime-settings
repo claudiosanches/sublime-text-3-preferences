@@ -1,8 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Additional PHP Snippets",
 		"Alignment",
+		"API Blueprint",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"CSS Snippets",
@@ -18,6 +22,8 @@
 		"JSONLint",
 		"LESS",
 		"Markdown Preview",
+		"Node Completions",
+		"Package Control",
 		"Pretty JSON",
 		"SCSS",
 		"Search WordPress Codex or QueryPosts",
@@ -31,9 +37,11 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-pyflakes",
+		"Table Editor",
 		"Tag",
 		"Terminal",
 		"TextFormatting",
+		"Theme - itg.flat",
 		"Twig",
 		"WordPress",
 		"WordPress Readme to Markdown"

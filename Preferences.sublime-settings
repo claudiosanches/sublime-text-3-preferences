@@ -27,5 +27,9 @@
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"theme": "itg.flat.dark.orange.sublime-theme",
+	"itg_small_tabs": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_scrollbar_medium": true
 }
