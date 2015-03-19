@@ -1,4 +1,7 @@
 {
+	"Seti_no_bar_undertabs": true,
+	"Seti_sb_tree_miny": true,
+	"Seti_tabs_small": true,
 	"color_scheme": "Packages/User/Twilight (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
@@ -21,12 +24,9 @@
 	[
 		"Vintage"
 	],
-	"itg_scrollbar_small": true,
-	"itg_sidebar_tree_medium": true,
-	"itg_small_tabs": true,
 	"shift_tab_unindent": true,
 	"tab_size": 4,
-	"theme": "itg.flat.dark.orange.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
