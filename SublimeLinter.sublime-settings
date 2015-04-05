@@ -57,7 +57,7 @@
                 "excludes": []
             },
             "scss": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "exclude-linter": "",
                 "excludes": [],
