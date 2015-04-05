@@ -2,7 +2,7 @@
 	"Seti_no_bar_undertabs": true,
 	"Seti_sb_tree_miny": true,
 	"Seti_tabs_small": true,
-	"color_scheme": "Packages/User/Twilight (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Twilight (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_US.dic",
