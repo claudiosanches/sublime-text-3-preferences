@@ -23,8 +23,8 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
-		"Vintage",
-		"RestructuredText"
+		"RestructuredText",
+		"Vintage"
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,
