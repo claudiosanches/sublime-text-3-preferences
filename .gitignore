@@ -6,3 +6,5 @@ bh_unicode_properties.cache
 Package Control.merged-ca-bundle
 Package Control.user-ca-bundle
 *.bak
+SublimePrint.sublime-settings
+
