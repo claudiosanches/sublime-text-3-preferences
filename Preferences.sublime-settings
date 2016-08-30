@@ -27,8 +27,6 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"RestructuredText",
-		"TextFormatting",
 		"Vintage"
 	],
 	"shift_tab_unindent": true,
