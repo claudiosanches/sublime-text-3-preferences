@@ -29,12 +29,12 @@
 	[
 		"Vintage"
 	],
+	"index_files": false,
 	"rulers":
 	[
 		80
 	],
 	"shift_tab_unindent": true,
-	"index_files": false,
 	"tab_size": 4,
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": false,

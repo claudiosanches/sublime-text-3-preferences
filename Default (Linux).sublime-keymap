@@ -1,8 +1,6 @@
 [
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
     { "keys": ["ctrl+alt+e"], "command": "encode_html_entities" },
-    { "keys": ["alt+m"], "command": "markdown_preview" },
-    { "keys": ["alt+v"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
     { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": {"single_line": false} },
     { "keys": ["alt+t"], "command": "unexpand_tabs" , "args": {"set_translate_tabs": true} },
     { "keys": ["alt+w"], "command": "open_terminal" },

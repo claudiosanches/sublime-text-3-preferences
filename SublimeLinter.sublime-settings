@@ -21,7 +21,7 @@
                 "warnings": ""
             },
             "eslint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             },
@@ -41,7 +41,7 @@
                 ]
             },
             "jshint": {
-                "@disable": true,
+                "@disable": false,
                 "args": [],
                 "excludes": []
             },
