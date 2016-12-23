@@ -4,12 +4,12 @@
  * Plugin Name: ${1:Lorem Ipsum}
  * Plugin URI:  https://github.com/claudiosanches/${2:slug}
  * Description: ${3:Lorem Ipsum}
- * Author:      claudiosanches
+ * Author:      CLaudio Sanches
  * Author URI:  https://claudiosmweb.com
- * Version:     0.0.1
+ * Version:     ${4:0.0.1}
  * License:     GPL2
  * Text Domain: ${2:slug}
- * Domain Path: /languages/
+ * Domain Path: /languages
  *
  * ${1:Lorem Ipsum} is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
