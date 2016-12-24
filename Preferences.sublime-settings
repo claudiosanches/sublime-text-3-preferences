@@ -27,6 +27,7 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
+		"PHP",
 		"Vintage"
 	],
 	"index_files": false,
