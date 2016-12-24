@@ -25,7 +25,7 @@
  * along with ${1:Lorem Ipsum}. If not, see
  * <https://www.gnu.org/licenses/gpl-2.0.txt>.
  *
- * @package WooCommerce_Correios
+ * @package ${5:Package_Name}
  */
 
 ]]></content>
