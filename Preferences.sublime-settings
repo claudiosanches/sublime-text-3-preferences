@@ -21,7 +21,8 @@
 		".sass-cache",
 		"apigen",
 		"tmp",
-		"__pycache__"
+		"__pycache__",
+		"vendor"
 	],
 	"font_face": "Ubuntu Mono",
 	"font_size": 13,

@@ -5,7 +5,7 @@
  * Plugin URI:  https://github.com/claudiosanches/${2:slug}
  * Description: ${3:Lorem Ipsum}
  * Author:      Claudio Sanches
- * Author URI:  https://claudiosmweb.com
+ * Author URI:  https://claudiosanches.com
  * Version:     ${4:0.0.1}
  * License:     GPLv2 or later
  * Text Domain: ${2:slug}
