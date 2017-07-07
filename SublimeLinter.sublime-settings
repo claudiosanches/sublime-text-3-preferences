@@ -54,6 +54,7 @@
             "php": {
                 "@disable": false,
                 "args": [],
+                "cmd": "/usr/bin/php7.1",
                 "excludes": []
             },
             "pyflakes": {
@@ -77,6 +78,11 @@
                 "excludes": []
             },
             "ruby": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "sass": {
                 "@disable": false,
                 "args": [],
                 "excludes": []
