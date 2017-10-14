@@ -5,5 +5,7 @@
     { "keys": ["alt+t"], "command": "unexpand_tabs" , "args": {"set_translate_tabs": true} },
     { "keys": ["alt+w"], "command": "open_terminal" },
     { "keys": ["ctrl+alt+h"], "command": "goto_documentation" },
-    { "keys": ["ctrl+alt+w"], "command": "wordpress_codex_open_selection" }
+    { "keys": ["ctrl+alt+w"], "command": "wordpress_codex_open_selection" },
+    { "keys": ["ctrl+alt+c"], "command": "phpcs_sniff_this_file" },
+    { "keys": ["ctrl+alt+n"], "command": "phpcs_goto_next_error" }
 ]

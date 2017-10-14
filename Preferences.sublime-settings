@@ -38,7 +38,7 @@
 	],
 	"shift_tab_unindent": true,
 	"tab_size": 4,
-	"theme": "Seti.sublime-theme",
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

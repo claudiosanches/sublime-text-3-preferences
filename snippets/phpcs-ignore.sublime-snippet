@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+// @codingStandardsIgnoreStart
+$1
+// @codingStandardsIgnoreEnd
+]]></content>
+    <tabTrigger>phpcs-ignore</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

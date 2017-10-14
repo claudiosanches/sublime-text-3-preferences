@@ -20,12 +20,12 @@
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"Jade",
+		"JavaScript Completions",
 		"jQuery",
 		"jQuery Snippets pack",
 		"JSONLint",
 		"LESS",
 		"Node Completions",
-		"Numix Theme",
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"PHP Completions Kit",
@@ -44,6 +44,7 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-yaml-lint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
@@ -57,6 +58,7 @@
 		"Tomorrow Color Schemes",
 		"Twig",
 		"WordPress",
-		"WordPress Readme to Markdown"
+		"WordPress Readme to Markdown",
+		"WPCS Whitelist Flags"
 	]
 }
