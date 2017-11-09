@@ -3,11 +3,11 @@
 	"phpcs_linter_run": false,
 	"phpcs_execute_on_save": false,
 	"phpcs_show_errors_on_save": false,
-	"phpcs_executable_path": "/home/claudio/.dotfiles/php/phpcs/scripts/phpcs",
+	"phpcs_executable_path": "/home/claudio/.dotfiles/php/phpcs/bin/phpcs",
     "phpcs_additional_args": {
         "--standard": "WordPress"
     },
-	"phpcbf_executable_path": "/home/claudio/.dotfiles/php/phpcs/scripts/phpcbf",
+	"phpcbf_executable_path": "/home/claudio/.dotfiles/php/phpcs/bin/phpcbf",
 	"phpcbf_show_quick_panel": true,
     "phpcbf_additional_args": {
         "--standard": "WordPress"
