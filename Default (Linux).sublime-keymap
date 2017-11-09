@@ -7,5 +7,6 @@
     { "keys": ["ctrl+alt+h"], "command": "goto_documentation" },
     { "keys": ["ctrl+alt+w"], "command": "wordpress_codex_open_selection" },
     { "keys": ["ctrl+alt+c"], "command": "phpcs_sniff_this_file" },
-    { "keys": ["ctrl+alt+n"], "command": "phpcs_goto_next_error" }
+    { "keys": ["ctrl+alt+n"], "command": "phpcs_goto_next_error" },
+    { "keys": ["ctrl+alt+x"], "command": "alignment" }
 ]
