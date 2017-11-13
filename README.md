@@ -1,4 +1,4 @@
-# My Sublime Text 3 Peferences #
+# My Sublime Text 3 Preferences #
 
 ## Dependencies ##
 
