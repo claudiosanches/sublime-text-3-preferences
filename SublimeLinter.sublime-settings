@@ -1,228 +1,141 @@
 {
-	"user":
-	{
-		"debug": false,
-		"delay": 0.25,
-		"error_color": "D02000",
-		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
-		"gutter_theme_excludes":
-		[
-		],
-		"lint_mode": "background",
-		"linters":
-		{
-			"apiblueprint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"csslint":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"errors": "",
-				"excludes":
-				[
-				],
-				"ignore": "",
-				"warnings": ""
-			},
-			"eslint":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"htmltidy":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				],
-				"ignore_match":
-				[
-					"missing <!DOCTYPE> declaration",
-					"inserting implicit <body>",
-					"inserting missing 'title' element",
-					"<table> lacks \"summary\" attribute",
-					"<(.*)> attribute \"id\" has invalid value (.*)",
-					"<(.*)> proprietary attribute (.*)",
-					"<(.*)> isn't allowed in <(.*)> elements",
-					"inserting implicit <table>"
-				]
-			},
-			"jshint":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"json":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				],
-				"strict": true
-			},
-			"php":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"cmd": "/usr/bin/php7.1",
-				"excludes":
-				[
-				]
-			},
-			"pyflakes":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"pylint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"disable": "",
-				"enable": "",
-				"excludes":
-				[
-				],
-				"paths":
-				[
-				],
-				"rcfile": "",
-				"show-codes": false
-			},
-			"rst":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"ruby":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"sass":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
-			"scss":
-			{
-				"@disable": true,
-				"args":
-				[
-				],
-				"exclude-linter": "",
-				"excludes":
-				[
-				],
-				"include-linter": ""
-			},
-			"yamllint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			}
-		},
-		"mark_style": "fill",
-		"no_column_highlights_line": false,
-		"passive_warnings": false,
-		"paths":
-		{
-			"linux":
-			[
-			],
-			"osx":
-			[
-			],
-			"windows":
-			[
-			]
-		},
-		"python_paths":
-		{
-			"linux":
-			[
-			],
-			"osx":
-			[
-			],
-			"windows":
-			[
-			]
-		},
-		"rc_search_limit": 3,
-		"shell_timeout": 10,
-		"show_errors_on_save": true,
-		"show_marks_in_minimap": true,
-		"syntax_map":
-		{
-			"html (django)": "html",
-			"html (rails)": "html",
-			"html 5": "html",
-			"php": "html",
-			"python django": "python"
-		},
-		"tooltip_fontsize": "1rem",
-		"tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
-		"tooltip_theme_excludes":
-		[
-		],
-		"tooltips": true,
-		"warning_color": "DDB700",
-		"wrap_find": true
-	}
+    "user": {
+        "debug": true,
+        "delay": 0.25,
+        "error_color": "D02000",
+        "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
+        "gutter_theme_excludes": [],
+        "lint_mode": "background",
+        "linters": {
+            "apiblueprint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "csslint": {
+                "@disable": true,
+                "args": [],
+                "errors": "",
+                "excludes": [],
+                "ignore": "",
+                "warnings": ""
+            },
+            "eslint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "htmltidy": {
+                "@disable": true,
+                "args": [],
+                "excludes": [],
+                "ignore_match": [
+                    "missing <!DOCTYPE> declaration",
+                    "inserting implicit <body>",
+                    "inserting missing 'title' element",
+                    "<table> lacks \"summary\" attribute",
+                    "<(.*)> attribute \"id\" has invalid value (.*)",
+                    "<(.*)> proprietary attribute (.*)",
+                    "<(.*)> isn't allowed in <(.*)> elements",
+                    "inserting implicit <table>"
+                ]
+            },
+            "jshint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
+            "json": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "strict": true
+            },
+            "php": {
+                "@disable": false,
+                "args": [],
+                "cmd": "/usr/bin/php7.1",
+                "excludes": []
+            },
+            "phpcs": {
+                "@disable": false,
+                "args": [],
+                "cmd": "/usr/bin/phpcs",
+                "excludes": [],
+                "standard": "PSR2"
+            },
+            "pyflakes": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "pylint": {
+                "@disable": false,
+                "args": [],
+                "disable": "",
+                "enable": "",
+                "excludes": [],
+                "paths": [],
+                "rcfile": "",
+                "show-codes": false
+            },
+            "rst": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "ruby": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "sass": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "scss": {
+                "@disable": true,
+                "args": [],
+                "exclude-linter": "",
+                "excludes": [],
+                "include-linter": ""
+            },
+            "yamllint": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            }
+        },
+        "mark_style": "fill",
+        "no_column_highlights_line": false,
+        "passive_warnings": false,
+        "paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "python_paths": {
+            "linux": [],
+            "osx": [],
+            "windows": []
+        },
+        "rc_search_limit": 3,
+        "shell_timeout": 10,
+        "show_errors_on_save": true,
+        "show_marks_in_minimap": true,
+        "syntax_map": {
+            "html (django)": "html",
+            "html (rails)": "html",
+            "html 5": "html",
+            "php": "html",
+            "python django": "python"
+        },
+        "tooltip_fontsize": "1rem",
+        "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
+        "tooltip_theme_excludes": [],
+        "tooltips": true,
+        "warning_color": "DDB700",
+        "wrap_find": true
+    }
 }

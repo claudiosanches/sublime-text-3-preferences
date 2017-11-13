@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+{
+    "linters": {
+        "phpcs": {
+            "cmd": "${1:path}/vendor/bin/phpcs",
+            "standard": "${1:path}/phpcs.ruleset.xml"
+        }
+    }
+}
+]]></content>
+	<tabTrigger>sublimelinterrc</tabTrigger>
+	<description>Standard .sublimelinterrc file to work with PHP Code_Sniffer</description>
+</snippet>
