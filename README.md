@@ -3,10 +3,11 @@
 ## Dependencies ##
 
 ```bash
-apt-get install tidy
+apt install tidy
 npm install -g csslint
 npm install -g jshint
 gem install scss-lint
+pear install PHP_CodeSniffer
 ```
 
 ## Credits ##
