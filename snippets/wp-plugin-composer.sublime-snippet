@@ -1,0 +1,43 @@
+<snippet>
+    <content><![CDATA[
+{
+	"name": "claudiosanches/${1:slug}",
+	"description": "${1:description}",
+	"homepage": "https://github.com/claudiosanches/${1:slug}",
+	"type": "wordpress-plugin",
+	"license": "GPL-3.0+",
+	"authors": [
+		{
+			"name": "Claudio Sanches",
+			"homepage": "https://claudiosanches.com",
+			"role": "Developer"
+		},
+	],
+	"support": {
+		"forum": "https://wordpress.org/support/plugin/${1:slug}",
+		"issues": "https://github.com/claudiosanches/${1:slug}/issues/",
+		"source": "https://github.com/claudiosanches/${1:slug}"
+	},
+	"require": {
+		"claudiosanches/wp-git-hooks": "*"
+	},
+	"scripts": {
+		"pre-update-cmd": [
+			"ClaudioSanches\\WpGitHooks\\Hooks::preHooks"
+		],
+		"pre-install-cmd": [
+			"@pre-update-cmd"
+		],
+		"post-install-cmd": [
+			"ClaudioSanches\\WpGitHooks\\Hooks::postHooks"
+		],
+		"post-update-cmd": [
+			"@post-install-cmd"
+		]
+	}
+}
+]]></content>
+    <tabTrigger>phpcs</tabTrigger>
+    <scope>source.json</scope>
+    <description>Composer.json for WordPress plugins</description>
+</snippet>
