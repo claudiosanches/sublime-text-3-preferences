@@ -1,14 +1,14 @@
 {
 	"user":
 	{
-		"debug": true,
+		"debug": false,
 		"delay": 0.25,
 		"error_color": "D02000",
 		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "background",
+		"lint_mode": "load/save",
 		"linters":
 		{
 			"apiblueprint":
@@ -190,7 +190,7 @@
 			}
 		},
 		"mark_style": "fill",
-		"no_column_highlights_line": false,
+		"no_column_highlights_line": true,
 		"passive_warnings": false,
 		"paths":
 		{
@@ -216,7 +216,7 @@
 			[
 			]
 		},
-		"rc_search_limit": 3,
+		"rc_search_limit": 5,
 		"shell_timeout": 10,
 		"show_errors_on_save": true,
 		"show_marks_in_minimap": true,
