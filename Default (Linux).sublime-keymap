@@ -6,5 +6,5 @@
     { "keys": ["alt+w"], "command": "open_terminal" },
     { "keys": ["ctrl+alt+h"], "command": "goto_documentation" },
     { "keys": ["ctrl+alt+w"], "command": "wordpress_codex_open_selection" },
-    { "keys": ["ctrl+alt+x"], "command": "alignment" }
+    { "keys": ["alt+="], "command": "alignment" }
 ]
