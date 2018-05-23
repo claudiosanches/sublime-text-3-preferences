@@ -2,6 +2,18 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"BracketHighlighter",
+		"GitGutter",
+		"JavaScript Completions",
+		"php-grammar",
+		"php-snippets",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-phpcs"
 	],
 	"installed_packages":
 	[
@@ -21,8 +33,6 @@
 		"OmniMarkupPreviewer",
 		"Package Control",
 		"PHP Completions Kit",
-		"php-grammar",
-		"php-snippets",
 		"PHPUnit Completions",
 		"Pretty JSON",
 		"Pretty YAML",
@@ -30,9 +40,9 @@
 		"Seti_UI",
 		"StringEncode",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-yaml-lint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
@@ -44,9 +54,12 @@
 		"Table Editor",
 		"Terminal",
 		"Tomorrow Color Schemes",
+		"WooCommerce Autocomplete",
 		"WordPress",
 		"WordPress Developer Resources",
 		"WordPress Readme to Markdown",
-		"WPCS Whitelist Flags"
+		"WPCS Whitelist Flags",
+		"PHPSnippets",
+		"PHPGrammar"
 	]
 }

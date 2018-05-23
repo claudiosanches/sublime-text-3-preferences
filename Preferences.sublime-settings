@@ -28,7 +28,18 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"PHP",
+		"BracketHighlighter",
+		"GitGutter",
+		"JavaScript Completions",
+		"php-grammar",
+		"php-snippets",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-phpcs",
 		"Vintage"
 	],
 	"index_files": false,
